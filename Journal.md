@@ -15,6 +15,6 @@
 - **Bed Temperature** – Should reach at least **80°C**, but should be able to support ABS without additional resources (though this is not strictly required).
 - **Enclosure** – Although not prioritized due to flexibility and unneeded size, I will **consider** an enclosure.
 
-**This took about 2 hours to decide, although its a basic list.**
+Total Time Taken : 30 Minutes
 ---
 
